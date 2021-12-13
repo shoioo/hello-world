@@ -1,8 +1,12 @@
 # hello-world
 Bienvenidos a mi primer repositorio jeje 
-Mi primera modificacion 'u'
+
+Mi primera modificacion
+
 Receta para hacer bombitas de queso:
+
 *Ingrientes:
+
 1 kilo de papas
 1 kilo de Harina 0000
 1 caja de Maicena
@@ -11,7 +15,9 @@ Sal y Pimienta (A gusto)
 600 gramo/s de Queso cremoso
 Pan Rallado
 Aceite (Para fritar las bombitas)
+
 *Preparacion:
+
 Para la masa:
 1) Hervir las papas hasta que estas se cocinen.
 2) Colar las papas.
