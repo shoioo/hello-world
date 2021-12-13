@@ -5,7 +5,7 @@ Mi primera modificacion
 
 Receta para hacer bombitas de queso:
 
-*Ingrientes:
+*Ingredientes:
 
 1 kilo de papas
 1 kilo de Harina 0000
