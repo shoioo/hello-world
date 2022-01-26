@@ -2,6 +2,7 @@
 Bienvenidos a mi primer repositorio jeje 
 
 Mi primera modificacion
+Me olvide de lo que era una rama, por eso volví de nuevo.
 
 Receta para hacer bombitas de queso:
 
