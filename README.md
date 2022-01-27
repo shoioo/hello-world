@@ -4,6 +4,8 @@ Bienvenidos a mi primer repositorio jeje
 Mi primera modificacion
 Me olvide de lo que era una rama, por eso volví de nuevo.
 
+Hice mal la modificacion (La hice en la rama principal). 
+
 Receta para hacer bombitas de queso:
 
 *Ingredientes:
